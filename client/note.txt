@@ -1,0 +1,22 @@
+u didn't do shit!!!
+3 weeks left!!!
+
+total video length = 68h30'
+-----------------------------------
+no tailwind.config.js -> use @theme in .css files
+-----------------------------------
+error somewhere?
+
+icons -> file name, 1 obj/container
+Icon -> prop
+-----------------------------------
+navigation bar incompleted: sizing wrong
+go vid2
+
+done
+-----------------------------------
+still not center screen-ed
+
+screen centered -> still not flexible
+-----------------------------------
+#3: scrape data

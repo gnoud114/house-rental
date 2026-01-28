@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"io.github.bytebase/dbhub": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"@bytebase/dbhub@0.13.2",
+                "--dsn",
+                "mysql://root:root123@34.92.100.108:3306/phongtro123"
+			],
+		}
+	}
+}

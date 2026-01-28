@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --width-1100: 1100px;
+  --max-width-600: 600px;
+  --color-primary: #f5f5f5;
+  --color-secondary1: #1266dd;
+  --color-secondary2: #F73859;
+  --cursor-pointer: pointer;
+} 
